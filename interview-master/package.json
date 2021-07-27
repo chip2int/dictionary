@@ -1,0 +1,18 @@
+{
+  "name": "code-project",
+  "version": "1.0.0",
+  "description": "Code project for Dictionary.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha test/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
